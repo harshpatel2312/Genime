@@ -1,0 +1,6 @@
+[submodule "Genime-Backend"]
+	path = Genime-Backend
+	url = https://github.com/harshpatel2312/Genime-Backend.git
+[submodule "Genime-Frontend"]
+	path = Genime-Frontend
+	url = https://github.com/harshpatel2312/Genime-Frontend
