@@ -52,7 +52,17 @@ Each submodule runs independently:
 
 ---
 
+## 🧠 Tech Stack
+
+| Layer | Technologies |
+|------------|--------------|
+| [Genime-Backend](https://github.com/harshpatel2312/Genime-Backend) | Express.js, Tailwind CSS, Node.js |  
+| [Genime-Frontend](https://github.com/harshpatel2312/Genime-Frontend) | FastAPI, Python, Pillow |  
+| Communication | REST API + CORS |  
+
+---
+
 ## 📜 License
 
 This project is licensed under the Apache 2.0 License.  
-© 2025 Genime — AI Imagined Differently 🚀
+© 2025 Genime
